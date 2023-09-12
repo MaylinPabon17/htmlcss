@@ -1,0 +1,219 @@
+.container {
+  width: 120 0px;
+  height: auto;
+  border: 1px;
+
+}
+.navbar {
+  width: 100%;
+  height: 50%;
+  background-color: #f7f7f7;
+  display: flex;
+  justify-content: space-between;
+}
+
+.brand {
+  margin-left: 100px;
+}
+.nav-left, .nav-righ {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.menu {
+  margin-left: 20px;
+  display: flex;
+}
+
+.menu a, .nav-righ ul li a {
+  display: block;
+  padding: 17px;
+  color: rgb(20, 19, 19);
+  text-decoration: none;
+}
+h1 {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+.container1{
+  background-color: #dddddd;
+  width: 100%;
+  border: 1px solid black;
+  margin-top: 500px;
+  height: 200px;
+
+}
+.seccion{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+
+}
+.caja{
+width: auto;
+
+
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}
+.nav-righ :hover{
+  text-decoration: underline;
+}
+
+
+
+.grupo {
+  margin-top: 150px;
+  margin-left: 350px;
+  width: 55%;
+  border: 1px solid rgb(23, 29, 208);
+  }
+.contenedor1{
+  display: flex;
+  margin: auto;
+}
+.formleft {
+      
+  background-color: #fff;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+.formrigh {
+  width: 550px;
+    height: 450px;
+    background-color: #2856eb;  
+}
+.text{
+  display: flex;
+}
+.texto{
+  margin-left: 30px;
+}
+.texto1{
+  color: #000;
+  font-size: 2rem;
+  margin-top: 4px;
+  margin-bottom: 35px;
+}
+.img{
+  width: 500px;
+  height: 450px;
+}
+.container2{
+  width: 100%;
+  margin-top: 30px;
+}
+.caja1{
+  width: 200px;
+  height: 20px;
+  text-align: center;
+ 
+}
+
+.img2{
+  width: 290px;
+ 
+
+}
+h2{
+  margin-left: 70px;
+}
+h1 {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+h3{
+
+  justify-content: space-around;
+}
+.container3{
+border: 1px solid black;
+padding: 10px;
+width: 97%;
+display: flex;
+height: 200px;
+margin: 100px 0px 20px 10px;
+}
+.imgusuario{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+
+}
+.button{
+float: right;
+margin-top: 50px;
+
+}
+.parrafo{
+margin: 10px 10px 10px 210px;
+
+}
+.parrafo2{
+  margin-left: auto;
+}
+.imag2{
+  width: 200px;
+  height: 200px;
+}
+
+.container4{
+  width: auto;
+
+}
+.imgusuario1{
+  width: 60px;
+  height: 60px;
+}
+.caja2{
+  border: 1px solid black;
+  width: 20%;
+  height: 200px;
+}
+.item{
+  display: flex;
+  width: 20%;
+  height: 100px;
+  align-items: center;
+  justify-content: space-around;
+  border: 1px solid black;
+  padding: 10px 10px;
+}
+.cuadro{
+  height: 70px;
+  width: 70px;
+  border: 1px solid black;
+
+}
+.testimonios{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+.texto{
+  text-align: center;
+  align-items: center;
+}
+.text{
+  align-items: center;
+  text-align: center;
+}
+.mapa{
+  width: 100%;
+  height: 500px;
+}
+.Copyright{
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  border: 1px solid black;
+}
+.aa{
+  margin-top: 20px;
+}
